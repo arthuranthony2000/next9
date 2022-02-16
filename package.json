@@ -1,0 +1,19 @@
+{
+  "name": "next0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^12.0.8",
+    "react": "^17.0.2",
+    "react-router-dom": "^6.2.1",
+    "swr": "^1.2.1"
+  }
+}
