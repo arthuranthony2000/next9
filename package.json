@@ -11,8 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^5.1.3",
     "next": "^12.0.8",
     "react": "^17.0.2",
+    "react-bootstrap": "^2.1.2",
     "react-router-dom": "^6.2.1",
     "swr": "^1.2.1"
   }
